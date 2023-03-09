@@ -1,6 +1,6 @@
 {
     "name": "main-updater",
-    "version": "0.0.14",
+    "version": "0.0.16",
     "main": "update.sh",
     "bin": "update.sh"
 }
