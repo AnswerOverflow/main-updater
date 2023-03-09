@@ -1,9 +1,6 @@
 {
     "name": "main-updater",
-    "version": "0.0.8",
-    "files": [
-        "./src/update.sh"
-    ],
-    "main": "./src/update.sh",
-    "bin": "./src/update.sh"
+    "version": "0.0.9",
+    "main": "update.sh",
+    "bin": "update.sh"
 }
