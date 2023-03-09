@@ -1,0 +1,6 @@
+{
+    "main": "index.ts",
+    "dist-main": "dist/index.js",
+    "types": "index.ts",
+    "dist-types": "dist/index.d.ts"
+}
